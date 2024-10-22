@@ -17,7 +17,7 @@ This project is built as a **Node.js library**, making it easy to integrate into
 ## 🚀 Getting Started
 
 ```bash
-npm install orangecat-queue
+npm install neko-mq
 ```
 
 ## Basic Usage:
