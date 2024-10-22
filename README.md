@@ -1,4 +1,4 @@
-![Orange Cat Logo](./assets/logo.png)
+![Orange Cat Logo](./assets/logo.webp)
 
 # 🐈 NekoMQ Message Queue Framework
 
