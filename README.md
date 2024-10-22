@@ -23,7 +23,7 @@ npm install neko-mq
 ## Basic Usage:
 
 ```javascript
-const NekoMQ = require("orangecat-queue");
+const NekoMQ = require("neko-mq");
 
 const queue = new NekoMQ({
   database: "postgresql", // Choose your DB (mysql, mongodb, redis, etc.)
