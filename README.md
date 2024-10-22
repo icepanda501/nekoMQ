@@ -6,3 +6,6 @@ Now we just start Repository and find idea to make it happen, If you have some i
 
 Thank you.
 
+# Milestone
+
+- [ ] Milestone 1: PostgreSQL Support
