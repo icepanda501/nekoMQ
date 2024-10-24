@@ -2,6 +2,8 @@
 
 # 🐈 NekoMQ Message Queue Framework
 
+## Message Queue at home
+
 **NekoMQ** is a lightweight and flexible **Message Queue framework** designed to connect seamlessly with a wide range of databases. Whether you're using **PostgreSQL, MySQL, MongoDB, SQLite, Redis**, or other storage systems, NekoMQ ensures reliable message delivery and smooth integration.
 
 This project is built as a **Node.js library**, making it easy to integrate into modern JavaScript/TypeScript applications.
