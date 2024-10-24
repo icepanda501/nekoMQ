@@ -50,6 +50,14 @@ Now we just start Repository and find idea to make it happen, If you have some i
 
 Thank you.
 
+# Testing
+
+We use testcontainers to run the database in the test environment.
+Some of the tests require a running database.
+To run the tests, you need to have Docker installed on your machine.
+
+maybe you need to run as root user
+
 # Milestone
 
 - [ ] Milestone 1: PostgreSQL Support
