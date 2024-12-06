@@ -29,5 +29,8 @@
     "pg": "^8.13.0",
     "testcontainers": "^10.13.2",
     "ts-jest": "^29.2.5"
+  },
+  "dependencies": {
+    "effect": "^3.11.3"
   }
 }
